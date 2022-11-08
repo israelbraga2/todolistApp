@@ -1,0 +1,1 @@
+@import"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap";*{margin:0;padding:0;font-family:roboto;font-weight:400}body{background:rgb(63,94,251);background:linear-gradient(90deg,rgb(63,94,251) 0%,rgb(252,70,107) 100%)}ul{list-style:none}textarea:focus,input:focus,button{outline:none}button{cursor:pointer}.container{width:450px;margin:50px auto}
